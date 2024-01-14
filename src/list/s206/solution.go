@@ -50,7 +50,7 @@ func ReverseList1(head *ListNode) *ListNode {
 }
 
 // ReverseList2
-// @Description 递归
+// @Description recursion
 // @Author lqc 2024-01-11 17:32:54
 // @Param head
 // @Return *ListNode
